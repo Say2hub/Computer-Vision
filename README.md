@@ -1,1 +1,1 @@
-Harnessing Computer Vision Techniques for Image Blurring,Sharpening,Modelling etc.
+Harnessing Computer Vision Techniques to mimic human eye and explore world problems!
